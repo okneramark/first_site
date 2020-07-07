@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+
+}
+.block-center {
+    width: 1100px;
+    margin: 0 auto;
+    background: #e0e0e0;
+    height: 1000px;
+    padding-top: 50px;
+}
+.description {
+    font-size: 20px;
+    text-align: center;
+}
+.organization-title {
+    text-align: center;
+}
