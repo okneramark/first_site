@@ -9,16 +9,34 @@ h2 {
 
 }
 .block-center {
-    width: 1100px;
+    width: 850px;
     margin: 0 auto;
     background: #e0e0e0;
-    height: 1000px;
     padding-top: 50px;
+    padding-bottom: 59px;
 }
 .description {
     font-size: 20px;
     text-align: center;
 }
 .organization-title {
+    text-align: center;
+}
+.section {
+    padding: 0 50px;
+}
+.text-center {
+    text-align: center;
+}
+.img-left {
+    float: left;
+    width: 250px;
+    height: 200px;
+    margin: 20px;
+}
+.text-right {
+    text-align: right;
+}
+.img-center {
     text-align: center;
 }
